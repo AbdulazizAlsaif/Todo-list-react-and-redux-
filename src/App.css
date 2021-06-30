@@ -1,0 +1,36 @@
+.inputDisabled[disabled] {
+  border: none;
+  background-color: lightblue;
+  color: black;
+  font-weight: 400;
+  font-size: 1.5rem;
+}
+
+.inputDisabled {
+  border: none;
+  background-color: white;
+  color: black;
+  font-weight: 400;
+  font-size: 1.5rem;
+  border: black 1px solid;
+  width: 100%;
+}
+.nopadding {
+  padding: 0px !important;
+  margin: 0 !important;
+}
+
+.mr-left {
+  margin-left: 3px;
+  margin-right: 3px;
+}
+
+.section {
+  border-bottom: 2px black solid;
+  padding: 5px;
+}
+
+.border-left {
+  border-top: white 10px solid;
+  border-left: white 10px solid;
+}
